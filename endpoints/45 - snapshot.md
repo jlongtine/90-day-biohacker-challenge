@@ -6,5 +6,6 @@ We’re working with Dr. Vinh Ngo to conduct a battery of doctor-prescribed test
 - [Neuroscience Neuro-Endocrine Basic](https://www.neurorelief.com/?p=testDet&testID=35) (Saliva and Urine test)
 - [Boston Heart Comprehensive Cardio Panel](http://www.bostonheartdiagnostics.com/patients_assessing_risk.php) (Blood test)
 - Quest Diagnostics [CBC](http://www.questdiagnostics.com/testcenter/TestDetail.action?ntc=6399), [IGF-1](http://www.questdiagnostics.com/testcenter/TestDetail.action?ntc=16293), [IGF B3](http://www.questdiagnostics.com/testcenter/TestDetail.action?ntc=34458) (Blood test)
+	- Alternatively: Online Lab Tests - [CBC](https://labtestsonline.org/understanding/analytes/cbc/tab/test), [IGF-1](https://labtestsonline.org/understanding/analytes/igf1), [IGF B3](http://www.truehealthlabs.com/IGF-Binding-Protein-3-Insulin-Like-Growth-Factor-p/quest_34458.htm)
 - VO2 Max
 - Body Fat %
