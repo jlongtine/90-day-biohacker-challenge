@@ -1,5 +1,5 @@
 ### Snapshot Monitoring (Day 0, Day 45, Day 90)
-We’re working with Dr. Vinh Ngo to conduct a battery of doctor-prescribed tests on our blood, urine, saliva and stools including:
+We’re working with [Dr. Vinh Ngo](http://www.smartmedsf.com/) to conduct a battery of doctor-prescribed tests on our blood, urine, saliva and stools including:
 - [Genova GI Effects](https://www.gdx.net/product/gi-effects-comprehensive-stool-test) (Stool test) — Gut microbiome
 - [Genova NutrEval](https://www.gdx.net/product/nutreval-fmv-nutritional-test-blood-urine) (Urine/Blood test)— Broad spectrum micronutrient levels
 - [Meridian Valley Male Hormones + HGH](http://meridianvalleylab.com/24-hour-urine-hormone-testing) [1](http://meridianvalleylab.com/wp-content/uploads/2014/07/Comp-Plus-w-hGH-Jane-Doe-new-logo-5-2011.pdf) (24 hour Urine test) 
